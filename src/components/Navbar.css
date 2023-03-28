@@ -1,0 +1,40 @@
+
+
+.navbar{
+    /* border: 2px solid;
+    display: flex;
+    align-items: center;
+    justify-content: center; */
+    /* justify-content: space-around; */
+    /* align-items: center;     */
+    /* min-height: 75px; */
+    background-color: #ffff00;
+    color: #000000d4;
+}
+nav{
+    margin: 10px;
+    padding: 20px;
+    border: 2px solid grey;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.Logo{
+    font-size: 30px;
+}
+.nav-links{
+    display: flex;
+    justify-content: flex-end;
+    list-style: none;
+    width: 75%;
+}
+
+.LOGIN{
+    text-decoration: none;
+    color:  rgba(0, 0, 0, 0.832);
+    font-size: 20px;
+    padding: 10px 20px;
+    margin: 0 10px;
+    cursor: pointer;
+}
